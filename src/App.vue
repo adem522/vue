@@ -6,7 +6,7 @@
       dark
       flat
     >    
-      <v-toolbar-title>Eight-Sup-Deneme</v-toolbar-title>
+      <v-toolbar-title>Eight-Sup</v-toolbar-title>
       <v-spacer></v-spacer>      
       <v-btn icon>
         <v-icon>mdi-magnify</v-icon>
