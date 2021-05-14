@@ -64,10 +64,9 @@ export default {
     register() {
       alert('Register')
     },
-    beforeOpen(){
+    beforeOpen(){      
+      //alert('beforeOpen la')
       //this.$modal.hide('demo-sign')
-      alert('beforeOpen la')
-      this.$modal.hide('demo-sign')
     },
   }
 }
